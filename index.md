@@ -616,7 +616,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
+    <a href="https://sqlitebrowser.org">SQLite</a> in our lessons.
   </p>
 
   <div class="row">
@@ -640,13 +640,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="sql-macosx">macOS</h4>
       <p>
-        SQLite comes pre-installed on macOS.
+        SQLite comes pre-installed on macOS. else please install it from https://sqlitebrowser.org
       </p>
     </div>
     <div class="col-md-4">
       <h4 id="sql-linux">Linux</h4>
       <p>
-        SQLite comes pre-installed on Linux.
+        SQLite comes pre-installed on Linux. else please install it from https://sqlitebrowser.org
       </p>
     </div>
   </div>
