@@ -623,7 +623,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
-        The <a href="{{site.swc_installer}}">
+        The <a href="https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.10.1/DB.Browser.for.SQLite-3.10.1-win32.exe">
           {% if page.carpentry == "swc" %}
           Software Carpentry
           {% elsif page.carpentry == "dc" %}
@@ -640,13 +640,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     <div class="col-md-4">
       <h4 id="sql-macosx">macOS</h4>
       <p>
-        SQLite comes pre-installed on macOS. else please install it from https://sqlitebrowser.org
+        SQLite comes pre-installed on macOS. else please install it from <a href="https://sqlitebrowser.org">DB Browser SQLite</a> 
       </p>
     </div>
     <div class="col-md-4">
       <h4 id="sql-linux">Linux</h4>
       <p>
-        SQLite comes pre-installed on Linux. else please install it from https://sqlitebrowser.org
+        SQLite comes pre-installed on Linux. else please install it from <a href="https://sqlitebrowser.org">DB Browser SQLite</a> 
       </p>
     </div>
   </div>
