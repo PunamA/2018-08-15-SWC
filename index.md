@@ -179,6 +179,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 </p>
+{% comment %}
+REGISTRATION
+{% endcomment %}
+<h2 id="registration">Registration</h2>
 <p><a href='http://reg.conferences.dce.ufl.edu/SSP/1400069300'>REGISTER HERE</a></p>
 <hr/>
 
