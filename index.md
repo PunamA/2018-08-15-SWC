@@ -183,7 +183,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 REGISTRATION
 {% endcomment %}
 <h2 id="registration">Registration</h2>
-<p><a href='http://reg.conferences.dce.ufl.edu/SSP/1400069300'>REGISTER HERE</a></p>
+<p><a href='http://reg.conferences.dce.ufl.edu/SSP/1400069300'>REGISTER HERE</a> Note that registration is limited to 24-30 participants, if you are unable to register please feel free to sign up on our <a href="https://docs.google.com/spreadsheets/d/1xzk3VtENTqle9aF_usBGFjChktVHnbMxZwoSVQvx_Aw/edit?usp=sharing">waiting-list</a> and you'll be the first to know of the next carpentry workshop</p>
 <hr/>
 
 {% comment %} 
