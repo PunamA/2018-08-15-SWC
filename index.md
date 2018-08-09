@@ -179,7 +179,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 </p>
-
+<p><a href='http://reg.conferences.dce.ufl.edu/SSP/1400069300'>REGISTER HERE</a></p>
 <hr/>
 
 {% comment %} 
