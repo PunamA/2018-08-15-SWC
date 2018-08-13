@@ -232,11 +232,11 @@ REGISTRATION
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
-{% if page.collaborative_notes %}
+
 <p id="collaborative_notes">
   We will use this <a href="https://pad.carpentries.org/2018-08-15-SWC">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
-{% endif %}
+
 
 <hr/>
 
