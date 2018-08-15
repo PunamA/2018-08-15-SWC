@@ -572,6 +572,7 @@ REGISTRATION
     </div>
     <div class="col-md-4">
       <h4 id="python-linux">Linux</h4>
+      <p>Your computer very likely already has Python 3 installed.  To confirm, open a terminal window and run <pre>python --version</pre>.  If that command doesn't report "Python 3.7" or something similar, try running <pre>python3</pre>.  If that doesn't work, you will need to install Python 3.  Follow these instructions:</p>
       <ol>
         <li>Open <a href="https://www.anaconda.com/download/#linux">https://www.anaconda.com/download/#linux</a> with your web browser.</li>
         <li>Download the Python 3 installer for Linux.<br>
